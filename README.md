@@ -43,7 +43,7 @@ docker-compose up -d --build
 
 Below is a screenshot showing the application running successfully through the NGINX reverse proxy:
 
-![Application Output](./output.png)
+![Application Output](../output.png)
 
 ## Technical Details
 
